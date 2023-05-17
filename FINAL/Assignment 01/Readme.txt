@@ -1,0 +1,1 @@
+the dataset which I used to complete this task was exceeding upload limits. Therefore, I couldn't share the dataset here. The dataset contained MASK and NO-MASK images. There are other significant folders such as face_detector, facemask_model which are also not uploaded here.

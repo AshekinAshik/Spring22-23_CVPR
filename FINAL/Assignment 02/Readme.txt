@@ -1,0 +1,1 @@
+I have used YOLOv3 to complete this task. I couldn't upload all the files that are needed for this task to complete. Such as yolo3.weights, yolo cfgg folder, coco.names that contained which object this model can detect and classify.
